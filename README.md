@@ -1,2 +1,1 @@
-# Web-Rizky.Ramadhani-
-PROGRAMRIZKY.R
+# Program-Rizky
